@@ -1,5 +1,5 @@
 # CppHTTPServer
-A Simple HTTP Server made with C++ that supports the standard ```get`` and ```put``` HTTP protocol commands as well as others. There are two programs in the repo cxi and cxid. cxi is the client while cxid is the server program.
+A Simple HTTP Server made with C++ that supports the standard ``get`` and ``put`` HTTP protocol commands as well as others. There are two programs in the repo cxi and cxid. cxi is the client while cxid is the server program.
 
 
 ## Getting Started
